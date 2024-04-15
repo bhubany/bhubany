@@ -24,7 +24,7 @@
 - 📫 Let's Connect:
   I'm always open to new connections and collaborations. Feel free to reach out if you're interested in working together, discussing tech trends, or just having a geeky conversation about the latest gadgets.
 
-- 📧 Email: [bhubaneshwar.yadav@smaitic.com](mailto:bhubaneshwar.yadav@smaitic.com) , [yadav.bhuban.by@gmail.com](mailto:yadav.bhuban.by@gmail.com)
+- 📧 Email: [yadav.bhuban.by@gmail.com](mailto:yadav.bhuban.by@gmail.com) ,  [bhubaneshwar.yadav@smaitic.com](mailto:bhubaneshwar.yadav@smaitic.com) 
 
 <br/>
 
