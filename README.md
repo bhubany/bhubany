@@ -8,7 +8,7 @@
 ### <div align="center">I'm Bhuban, a passionate and versatile Full Stack Developer with a love for crafting clean and efficient code.
 
 </div>
-- 📧 Email: [yadav.bhuban.by@gmail.com](mailto:yadav.bhuban.by@gmail.com) ,  [bhubaneshwar.yadav@smaitic.com](mailto:bhubaneshwar.yadav@smaitic.com)
+- 📧 Email: yadav.bhuban.by@gmail.com
 <br/>
 <br />
 <a href="https://linkedin.com/in/bhubany" target="_blank">
