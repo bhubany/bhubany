@@ -9,22 +9,14 @@
 
 </div>
 
-- 🚀 Constantly Curious:
-  I thrive on challenges and am fueled by curiosity. Exploring new technologies and staying updated with the latest trends is my second nature.
-
-- 🌐 Full Stack Focus:
-  With a strong foundation in both front-end and back-end development, I bring a holistic approach to crafting seamless web experiences. From designing intuitive user interfaces to architecting robust server systems, I aim to deliver end-to-end solutions that make an impact.
-
-- 🌟 Problem Solver:
-  Coding isn't just a job for me; it's a way to solve problems and create solutions that make a difference. I thrive in collaborative environments, where I can brainstorm ideas, contribute my expertise, and work together to build remarkable products
-
-- 🎯 Continuous Improvement:
-  I believe in the power of continuous learning and improvement. Every project is an opportunity to refine my skills and expand my horizons. Embracing feedback, iterating on designs, and optimizing performance are all part of my development philosophy.
-
 - 📫 Let's Connect:
-  I'm always open to new connections and collaborations. Feel free to reach out if you're interested in working together, discussing tech trends, or just having a geeky conversation about the latest gadgets.
+  I'm always open to new connections and collaborations. Let me know if you're interested in working together, discussing tech trends, or just having a geeky conversation about the latest tech.
 
-- 📧 Email: [yadav.bhuban.by@gmail.com](mailto:yadav.bhuban.by@gmail.com) ,  [bhubaneshwar.yadav@smaitic.com](mailto:bhubaneshwar.yadav@smaitic.com) 
+- 📧 Email: [yadav.bhuban.by@gmail.com](mailto:yadav.bhuban.by@gmail.com) ,  [bhubaneshwar.yadav@smaitic.com](mailto:bhubaneshwar.yadav@smaitic.com)
+<br/>
+<a href="https://linkedin.com/in/bhubany" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 <br/>
 
@@ -89,28 +81,6 @@
 </div>
 
 </td></tr></table>
-
-<br/>
-
-## Connect with me
-
-<div align="center">
-<a href="https://github.com/bhubany" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/bhubaneshwary" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/bhubany" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/bhuban.yadav.79" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/bhubanyadav" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>
 
 <br/>
 
