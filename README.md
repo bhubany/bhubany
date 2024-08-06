@@ -8,9 +8,8 @@
 ### <div align="center">I'm Bhuban, a passionate and versatile Full Stack Developer with a love for crafting clean and efficient code.
 
 </div>
-<a href="mailto:yadav.bhuban.by@gmail.com">
 📧 Email: [yadav.bhuban.by@gmail.com](mailto:yadav.bhuban.by@gmail.com) ,  [bhubaneshwar.yadav@smaitic.com](mailto:bhubaneshwar.yadav@smaitic.com)
-</a>
+<br />
 <a href="https://linkedin.com/in/bhubany" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
