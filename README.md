@@ -16,7 +16,7 @@ I am committed to **driving innovation** and **delivering high-performance appli
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **React.js**, **Next.js**, **JavaScript**, **TypeScript**, **Bootstrap**, **HTML5**, **CSS3**
+- **Vue.js**, **React.js**, **Next.js**, **JavaScript**, **TypeScript**, **Bootstrap**, **HTML5**, **CSS3**
 
 ### Backend
 - **Python**,**Java**, **Spring-boot**, **Node.js**, **Express.js**, **Django**, **C++**, **PHP**, **PostgreSQL**, **MongoDB**
